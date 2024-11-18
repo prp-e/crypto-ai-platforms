@@ -20,4 +20,18 @@ To contribute to this list, you must follow these rules:
 ### Template 
 
 ```markdown
+### Platform or Service Name
+
+A little bit of description (optional)
+
+- Payment options:
+    - Fiat (if available)
+    - Crypto 
+        - Every currency they support
+
+- Pros:
+    - Pro #1
+
+- Cons: 
+    - Con #1
 ```
