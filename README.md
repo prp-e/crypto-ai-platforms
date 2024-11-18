@@ -40,6 +40,23 @@ A little bit of description (optional)
 
 ## GPU or Server/Serverless Providers 
 
+### [RunPod](https://runpod.io)
+
+RunPod is currently offering GPU as a service, GPU servers and also serverless AI services. 
+
+- Payment options:
+    - Fiat 
+    - Crypto 
+        - They use Crypto.com as the payment gateway, so every currencies on that platform is supported. 
+
+- Pros:
+    - Powerful GPUs with competitive pricing 
+    - Good support 
+    - Good documentations 
+
+- Cons: 
+    - Theirs crypto provider needs KYC. It may be problematic for citizens of some countries. 
+
 ## API Provider 
 
 ## Chat/Image Platforms
