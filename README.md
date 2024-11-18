@@ -77,12 +77,12 @@ They provide servers and also platforms for running your own models (such as Com
 
 ### [AI ML API](https://aimlapi.com)
 
-A little bit of description (optional)
+They provide most of well-known AI models through their API and also offer a playground for testing the model.
 
 - Payment options:
-    - Fiat (if available)
+    - Fiat 
     - Crypto 
-        - Every currency they support
+        - They're using _Now Payments_ and this gives you a huge list of different coins and tokens to pay. 
 
 - Pros:
     - Pro #1
