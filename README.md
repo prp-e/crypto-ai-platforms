@@ -59,18 +59,19 @@ RunPod is currently offering GPU as a service, GPU servers and also serverless A
 
 ### [Massed Compute](https://massedcompute.com)
 
-A little bit of description (optional)
+They provide servers and also platforms for running your own models (such as Comfy UI and Automatic1111)
 
 - Payment options:
-    - Fiat (if available)
+    - Fiat 
     - Crypto 
-        - Every currency they support
+        - Bitcoin
 
 - Pros:
-    - Pro #1
+    - They provide SSH access to GPU servers
+    - They provide remote desktop/VNC access to the computers they rent 
 
 - Cons: 
-    - Con #1
+    - They only accept bitcoin. 
 
 ## API Provider 
 
