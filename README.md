@@ -57,6 +57,21 @@ RunPod is currently offering GPU as a service, GPU servers and also serverless A
 - Cons: 
     - Theirs crypto provider needs KYC. It may be problematic for citizens of some countries. 
 
+### [Massed Compute](https://massedcompute.com)
+
+A little bit of description (optional)
+
+- Payment options:
+    - Fiat (if available)
+    - Crypto 
+        - Every currency they support
+
+- Pros:
+    - Pro #1
+
+- Cons: 
+    - Con #1
+
 ## API Provider 
 
 ## Chat/Image Platforms
