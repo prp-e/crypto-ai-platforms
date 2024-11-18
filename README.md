@@ -75,4 +75,19 @@ They provide servers and also platforms for running your own models (such as Com
 
 ## API Provider 
 
+### [AI ML API](https://aimlapi.com)
+
+A little bit of description (optional)
+
+- Payment options:
+    - Fiat (if available)
+    - Crypto 
+        - Every currency they support
+
+- Pros:
+    - Pro #1
+
+- Cons: 
+    - Con #1
+
 ## Chat/Image Platforms
