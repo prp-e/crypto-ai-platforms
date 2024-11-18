@@ -16,3 +16,8 @@ To contribute to this list, you must follow these rules:
 2. Create a new branch with `git checkout -b my-awesome-contribution` 
 3. Add the platform or service with provided template below
 4. Make your pull request!
+
+### Template 
+
+```markdown
+```
