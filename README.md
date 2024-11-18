@@ -109,3 +109,18 @@ They offer ChatGPT, Claude and other big models in both chatbot and API form.
 
 - Cons: 
     - Not supporting other well-known currencies such as ETH or TRX. 
+
+### [Nano-GPT](https://nano-gpt.com)
+
+A little bit of description (optional)
+
+- Payment options:
+    - Fiat (if available)
+    - Crypto 
+        - Every currency they support
+
+- Pros:
+    - Pro #1
+
+- Cons: 
+    - Con #1
