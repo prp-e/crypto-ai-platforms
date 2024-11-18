@@ -85,9 +85,10 @@ They provide most of well-known AI models through their API and also offer a pla
         - They're using _Now Payments_ and this gives you a huge list of different coins and tokens to pay. 
 
 - Pros:
-    - Pro #1
+    - They provide a vast majority of LLMs 
+    - Their gateway is supporting every well-known currency. 
 
 - Cons: 
-    - Con #1
+    - They only offer a singl $100/month package in their crypto payment options.
 
 ## Chat/Image Platforms
