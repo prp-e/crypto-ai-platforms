@@ -112,7 +112,7 @@ They offer ChatGPT, Claude and other big models in both chatbot and API form.
 
 ### [Nano-GPT](https://nano-gpt.com)
 
-A little bit of description (optional)
+They provide a ChatGPT-like interface and a bunch of models such as GPT-4 and Claude. They also provide image generation using Dall-E and FLUX. In addition to these, they also have an API. 
 
 - Payment options:
     - Fiat (if available)
