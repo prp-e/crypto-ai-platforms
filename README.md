@@ -148,7 +148,8 @@ A break through image generation platform, offering their own models for creatin
         - USDT (TRC20)
 
 - Pros:
-    - Pro #1
+    - Three different image generation models 
+    - Competetive prices 
 
 - Cons: 
-    - Con #1
+    - Not supporting SOL coins
