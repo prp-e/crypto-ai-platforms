@@ -92,3 +92,20 @@ They provide most of well-known AI models through their API and also offer a pla
     - They only offer a singl $100/month package in their crypto payment options.
 
 ## Chat/Image Platforms
+
+### [Crypto Talks](https://cryptotalks.ai)
+
+They offer ChatGPT, Claude and other big models in both chatbot and API form. 
+
+- Payment options:
+    - Crypto 
+        - Bitcoin
+        - Lightning (which is a network for bitcoin)
+        - Monero
+
+- Pros:
+    - They have all major LLMs in their arsenal. 
+    - OpenAI compatible API 
+
+- Cons: 
+    - Not supporting other well-known currencies such as ETH or TRX. 
