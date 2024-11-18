@@ -137,10 +137,9 @@ They provide a ChatGPT-like interface and a bunch of models such as GPT-4 and Cl
 
 ### [Mann-E](https://mann-e.com)
 
-A little bit of description (optional)
+A break through image generation platform, offering their own models for creating images. 
 
 - Payment options:
-    - Fiat (if available)
     - Crypto 
         - Every currency they support
 
