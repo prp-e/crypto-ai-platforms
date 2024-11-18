@@ -135,7 +135,7 @@ They provide a ChatGPT-like interface and a bunch of models such as GPT-4 and Cl
 - Cons: 
     - They are not supporting TRX and ETH
 
-### Platform or Service Name
+### [Mann-E](https://mann-e.com)
 
 A little bit of description (optional)
 
