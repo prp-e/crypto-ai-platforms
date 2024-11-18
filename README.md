@@ -134,3 +134,18 @@ They provide a ChatGPT-like interface and a bunch of models such as GPT-4 and Cl
 
 - Cons: 
     - They are not supporting TRX and ETH
+
+### Platform or Service Name
+
+A little bit of description (optional)
+
+- Payment options:
+    - Fiat (if available)
+    - Crypto 
+        - Every currency they support
+
+- Pros:
+    - Pro #1
+
+- Cons: 
+    - Con #1
