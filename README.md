@@ -141,7 +141,11 @@ A break through image generation platform, offering their own models for creatin
 
 - Payment options:
     - Crypto 
-        - Every currency they support
+        - Bitcoin
+        - Ethereum 
+        - Tron
+        - USDT (ERC20)
+        - USDT (TRC20)
 
 - Pros:
     - Pro #1
