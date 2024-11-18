@@ -37,3 +37,9 @@ A little bit of description (optional)
 ```
 
 # Services and Platforms
+
+## GPU or Server/Serverless Providers 
+
+## API Provider 
+
+## Chat/Image Platforms
