@@ -115,12 +115,22 @@ They offer ChatGPT, Claude and other big models in both chatbot and API form.
 They provide a ChatGPT-like interface and a bunch of models such as GPT-4 and Claude. They also provide image generation using Dall-E and FLUX. In addition to these, they also have an API. 
 
 - Payment options:
-    - Fiat (if available)
+    - Fiat 
     - Crypto 
-        - Every currency they support
+        - Nano (apparently it's their utiltiy token)
+        - Monero
+        - Litecoin 
+        - Bitcoin Cash
+        - Solana
+        - USDC
+        - Dash
+        - DOGE
+        - Banano
+        - Bitcoin 
 
 - Pros:
-    - Pro #1
+    - They offer a lot of models 
+    - They support a vast variety of coins 
 
 - Cons: 
-    - Con #1
+    - They are not supporting TRX and ETH
